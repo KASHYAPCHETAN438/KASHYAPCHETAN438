@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chetan Kashyap</h1>
+<h1 align="center">Hi 👋, I'm Chetan </h1>
 <h3 align="center">A Curious Mind | Always Ready to Learn New Things</h3>
 
 ---
