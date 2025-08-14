@@ -32,18 +32,34 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChetanKashyap9510&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanKashyap9510&layout=compact&theme=tokyonight)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KASHYAPCHETAN438&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KASHYAPCHETAN438&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 ---
 
-### 🔥 Streak Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChetanKashyap9510&theme=tokyonight)](https://git.io/streak-stats)
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KASHYAPCHETAN438&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 ---
 
-### 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=ChetanKashyap9510&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KASHYAPCHETAN438&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
 
 ---
 
