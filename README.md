@@ -3,7 +3,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=chetankashyap9510&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ChetanKashyap9510&label=Profile%20views&color=0e75b6&style=flat)
 
 - 💼 A skilled **Data Analyst / Developer**
 - 🌱 Currently developing personal projects in **Python**, **Power BI**, **Excel**, and **MySQL**
@@ -29,18 +29,18 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetankashyap9510&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetankashyap9510&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChetanKashyap9510&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanKashyap9510&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🔥 Streak Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chetankashyap9510&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChetanKashyap9510&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
 ### 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=chetankashyap9510&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ChetanKashyap9510&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
