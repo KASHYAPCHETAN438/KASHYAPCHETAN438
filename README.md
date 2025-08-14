@@ -12,8 +12,9 @@
 ---
 
 ### 🌐 Connect with me:
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" /> LinkedIn](https://linkedin.com/in/chetan-kashyap-9b4045255)  
-[<img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" alt="Gmail" height="20" width="20" /> Mail](mailto:Chetankashyap951@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetan-kashyap-9b4045255)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Chetankashyap951@gmail.com)
+
 
 
 
