@@ -5,15 +5,17 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ChetanKashyap9510&label=Profile%20views&color=0e75b6&style=flat)
 
-- 💼 A skilled **Data Analyst / Developer**
-- 🌱 Currently developing personal projects in **Python**, **Power BI**, **Excel**, and **MySQL**
+- 💼 A skilled **Python Full Stack Developer**
+- 🌱 Currently developing personal projects in **Python**, **AI**, **ML**, and **MySQL**
 - 📫 How to reach me: **Chetankashyap951@gmail.com**
 
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chetan-kashyap-9b4045255)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:Chetankashyap951@gmail.com)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" /> LinkedIn](https://linkedin.com/in/chetan-kashyap-9b4045255)  
+[<img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" alt="Gmail" height="20" width="20" /> Mail](mailto:Chetankashyap951@gmail.com)
+
+
 
 ---
 
