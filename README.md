@@ -1,40 +1,47 @@
-<h1 align="center">Hi 👋, I'm Chetan</h1>
-<p align="center">Curious Mind | Always Ready to Learn New Things</p>
+<h1 align="center">Hi 👋, I'm Chetan Kashyap</h1>
+<h3 align="center">A Curious Mind | Always Ready to Learn New Things</h3>
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=chetankashyap9510&label=Profile%20views&color=0e75b6&style=flat)
+
+- 💼 A skilled **Data Analyst / Developer**
+- 🌱 Currently developing personal projects in **Python**, **Power BI**, **Excel**, and **MySQL**
+- 📫 How to reach me: **Chetankashyap951@gmail.com**
+
+---
+
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chetan-kashyap-9b4045255)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:Chetankashyap951@gmail.com)
+
+---
+
+### 🛠 Languages and Tools:
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
-- 🧑‍💻 A skilled **Data Analyst / Developer** (edit this line to match you).  
-- 🌱 I’m currently **Developing personal projects** in Python, Power BI, Excel, and MySQL.  
-- 📫 How to reach me: **Chetankashyap951@gmail.com**  
-
-### Connect with me
-<a href="linkedin.com/in/chetan-kashyap-9b4045255" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
-### Languages and Tools
-<!-- Quickly customize the icons list below at https://skillicons.dev -->
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,excel,git,github,vscode&perline=8" alt="Skills"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
 ---
 
-### Most Used Languages
-<!-- Uses anuraghazra/github-readme-stats -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" alt="Top Langs"/>
-</p>
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetankashyap9510&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetankashyap9510&layout=compact&theme=tokyonight)
 
-### GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true" alt="GitHub stats"/>
-</p>
+---
 
-### Streak
-<p>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME" alt="GitHub Streak"/>
-</p>
+### 🔥 Streak Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chetankashyap9510&theme=tokyonight)](https://git.io/streak-stats)
 
+---
+
+### 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=chetankashyap9510&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+⭐ **Fun Fact:** I believe in "Learning by Doing" and "Sharing Knowledge"
